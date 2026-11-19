@@ -1,0 +1,4 @@
+# build/build.py's products
+build/work/
+dist/
+__pycache__/
